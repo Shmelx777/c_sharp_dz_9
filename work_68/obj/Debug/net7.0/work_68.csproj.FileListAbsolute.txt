@@ -1,0 +1,15 @@
+C:\Projects\с_#_DZ_9\work_68\bin\Debug\net7.0\work_68.exe
+C:\Projects\с_#_DZ_9\work_68\bin\Debug\net7.0\work_68.deps.json
+C:\Projects\с_#_DZ_9\work_68\bin\Debug\net7.0\work_68.runtimeconfig.json
+C:\Projects\с_#_DZ_9\work_68\bin\Debug\net7.0\work_68.dll
+C:\Projects\с_#_DZ_9\work_68\bin\Debug\net7.0\work_68.pdb
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.csproj.AssemblyReference.cache
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.AssemblyInfoInputs.cache
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.AssemblyInfo.cs
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.csproj.CoreCompileInputs.cache
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.dll
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\refint\work_68.dll
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.pdb
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\work_68.genruntimeconfig.cache
+C:\Projects\с_#_DZ_9\work_68\obj\Debug\net7.0\ref\work_68.dll
